@@ -1,6 +1,3 @@
-Here's a clean, professional, and well-structured **portfolio-ready version** of your project description, adapted for the **Customer Complaints Dashboard** (Tableau) instead of the Pizza Sales project:
-
----
 
 # 📊 Customer Complaints Dashboard - Tableau Analysis
 
